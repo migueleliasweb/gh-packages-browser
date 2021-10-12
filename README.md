@@ -1,2 +1,2 @@
-# gh-packages-browser
+# github-packages-browser
 Browse and download files from Github Packages
