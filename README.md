@@ -1,2 +1,2 @@
 # gh-packages-browser
-Browse and download public and private Github Packages
+Browse and download files from Github Packages
